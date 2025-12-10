@@ -26,10 +26,7 @@ export default function App() {
     return (
         <div className="app">
             <header>
-                <h1>SimpleFlashCardWeb</h1>
-                <nav>
-                    <a href="#/">Home</a>
-                </nav>
+                <h2>Simple Flashcard Web</h2>
             </header>
 
             <main>
